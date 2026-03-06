@@ -27,7 +27,7 @@ Public stroke dataset from Kaggle (n = 5,111). The outcome `stroke` is highly im
 ![RF ROC](figures/rf_roc.png)
 
 ## Files
-- `thesis_zh.pdf`: original thesis (Chinese)
+- Full thesis (Chinese PDF): [thesis_zh.pdf](thesis_zh.pdf)
 - `figures/`: key results and visuals
 
 ## Reproducibility note
